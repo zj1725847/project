@@ -8,7 +8,7 @@ public class UserImpl {
     	for (int i = 0; i <= a; i++) {
     		System.out.println(i);
 		System.out.println("i="+i);
-			Thread.sleep(1000);
-		}
+		Thread.sleep(1000);
+	}
     }
 }
